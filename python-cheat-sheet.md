@@ -1578,10 +1578,14 @@ print(library.list_available_books())  # [book2]
 
 Tài liệu này đã cung cấp một cái nhìn tổng quan về các khái niệm cơ bản và nâng cao trong Python. Để thành thạo Python, hãy thực hành thường xuyên và xây dựng các dự án thực tế. Python là một ngôn ngữ mạnh mẽ và linh hoạt, với cộng đồng lớn và nhiều thư viện hỗ trợ, giúp bạn giải quyết nhiều vấn đề khác nhau một cách hiệu quả.
 
-Chúc bạn học tập và phát triển tốt với Python! 🐍
+---
+
+## Tài liệu tham khảo
+
+Tài liệu này được tổng hợp và tham khảo từ 
+   - URL: https://realpython.com/cheatsheets/python/
+   - URL: https://200lab.io/blog/python-cheat-sheet-danh-cho-nguoi-moi-phan-1
+   - URL: https://labex.io/pythoncheatsheet/
 
 ---
 
-**Tác giả:** Blog Python Cheat Sheet  
-**Ngày:** 2024  
-**Phiên bản:** 1.0
